@@ -1,5 +1,5 @@
 Colour Name,First Usage,Colour Family,hex,URL,Part of Speech,0000D category
-white,0000,white,white,,adjective,The external world > matter > colour > named colors
+white,0,white,white,,adjective,The external world > matter > colour > named colors
 blank,1325,white,white,,adjective,The external world > matter > colour > named colors
 blanch,1330,white,white,,adjective,The external world > matter > colour > named colors
 paper-white,1430,white,white,,adjective,The external world > matter > colour > named colors
@@ -8,7 +8,7 @@ whitish,1398,whitish,white,,adjective,The external world > matter > colour > nam
 whitelike,1608,whitish,white,,adjective,The external world > matter > colour > named colors
 albid,1657,whitish,white,,adjective,The external world > matter > colour > named colors
 incandent,1854,brilliantly white,white,,adjective,The external world > matter > colour > named colors
-all-white,0000,pure white,white,http://www.ansiindia.com/blowups/pure-white-pebbles.jpg,adjective,The external world > matter > colour > named colors
+all-white,0,pure white,white,http://www.ansiindia.com/blowups/pure-white-pebbles.jpg,adjective,The external world > matter > colour > named colors
 dead white,1794,pure white,white,http://www.ansiindia.com/blowups/pure-white-pebbles.jpg,adjective,The external world > matter > colour > named colors
 snow-white,1000,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/photogalleries/nature/whitesnow05.jpg,adjective,The external world > matter > colour > named colors
 snowish,1374,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/photogalleries/nature/whitesnow05.jpg,adjective,The external world > matter > colour > named colors
@@ -16,7 +16,7 @@ snowy,1590,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/phot
 nixious,1623,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/photogalleries/nature/whitesnow05.jpg,adjective,The external world > matter > colour > named colors
 snow-like,1663,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/photogalleries/nature/whitesnow05.jpg,adjective,The external world > matter > colour > named colors
 snow,1750,white as snow,snow,http://www.marcodebiasi.net/MDhobbies/MDphoto/photogalleries/nature/whitesnow05.jpg,adjective,The external world > matter > colour > named colors
-milk-white,0000,white as milk,white,http://cdn1.medicalnewstoday.com/content/images/articles/273451-milk.jpg,adjective,The external world > matter > colour > named colors
+milk-white,0,white as milk,white,http://cdn1.medicalnewstoday.com/content/images/articles/273451-milk.jpg,adjective,The external world > matter > colour > named colors
 milkish,1398,white as milk,white,http://cdn1.medicalnewstoday.com/content/images/articles/273451-milk.jpg,adjective,The external world > matter > colour > named colors
 milky,1398,white as milk,white,http://cdn1.medicalnewstoday.com/content/images/articles/273451-milk.jpg,adjective,The external world > matter > colour > named colors
 milk,1500,white as milk,white,http://cdn1.medicalnewstoday.com/content/images/articles/273451-milk.jpg,adjective,The external world > matter > colour > named colors
@@ -70,7 +70,7 @@ natural-coloured,1909,off-white,oldlace,,adjective,The external world > matter >
 off-white,1931,off-white,oldlace,,adjective,The external world > matter > colour > named colors
 oysterous,1882,greyish white,whitesmoke,,adjective,The external world > matter > colour > named colors
 oyster,1893,greyish white,whitesmoke,,adjective,The external world > matter > colour > named colors
-white,0000,silvery,silver,http://www.chemicool.com/elements/images/300-galena.jpg,adjective,The external world > matter > colour > named colors
+white,0,silvery,silver,http://www.chemicool.com/elements/images/300-galena.jpg,adjective,The external world > matter > colour > named colors
 silver,1405,silvery,silver,http://www.chemicool.com/elements/images/300-galena.jpg,adjective,The external world > matter > colour > named colors
 silverish,1530,silvery,silver,http://www.chemicool.com/elements/images/300-galena.jpg,adjective,The external world > matter > colour > named colors
 argentine,1578,silvery,silver,http://www.chemicool.com/elements/images/300-galena.jpg,adjective,The external world > matter > colour > named colors
@@ -88,7 +88,7 @@ blush-white,1882,reddish white,misty rose,,adjective,The external world > matter
 cream-coloured,1707,cream,ivory,http://www.lifetasteslikefood.com/wp-content/uploads/2012/01/IMG_8891-1024x682.jpg,adjective,The external world > matter > colour > named colors
 creamy,1845,cream,ivory,http://www.lifetasteslikefood.com/wp-content/uploads/2012/01/IMG_8891-1024x682.jpg,adjective,The external world > matter > colour > named colors
 cream,1861,cream,ivory,http://www.lifetasteslikefood.com/wp-content/uploads/2012/01/IMG_8891-1024x682.jpg,adjective,The external world > matter > colour > named colors
-black,0000,black,black,,adjective,The external world > matter > colour > named colors
+black,0,black,black,,adjective,The external world > matter > colour > named colors
 blok,1200,black,black,,adjective,The external world > matter > colour > named colors
 neger,1425,black,black,,adjective,The external world > matter > colour > named colors
 sable,1470,black,black,,adjective,The external world > matter > colour > named colors
@@ -170,14 +170,14 @@ corked,1836,blackened,black,,adjective,The external world > matter > colour > na
 burnt-corked,1884,blackened,black,,adjective,The external world > matter > colour > named colors
 sootied,1615,blackened,black,,adjective,The external world > matter > colour > named colors
 fuliginous,1843,blackened,black,,adjective,The external world > matter > colour > named colors
-fire-swart,0000,blackened,black,,adjective,The external world > matter > colour > named colors
+fire-swart,0,blackened,black,,adjective,The external world > matter > colour > named colors
 charred,1794,blackened,black,,adjective,The external world > matter > colour > named colors
 blackleaded,1798,blackened,black,,adjective,The external world > matter > colour > named colors
 plumbagoed,1860,blackened,black,,adjective,The external world > matter > colour > named colors
 pitchy,1425,blackened,black,,adjective,The external world > matter > colour > named colors
 unblacked,1836,blackened,black,,adjective,The external world > matter > colour > named colors
-red,0000,red ,red,,adjective,The external world > matter > colour > named colors
-reod,0000,red ,red,,adjective,The external world > matter > colour > named colors
+red,0,red ,red,,adjective,The external world > matter > colour > named colors
+reod,0,red ,red,,adjective,The external world > matter > colour > named colors
 ruddy,1398,red ,red,,adjective,The external world > matter > colour > named colors
 reddy,1400,red ,red,,adjective,The external world > matter > colour > named colors
 rouge,1425,red ,red,,adjective,The external world > matter > colour > named colors
@@ -248,8 +248,8 @@ canellia-red,1890,bright red or scarlet,red,,adjective,The external world > matt
 miniate,1891,bright red or scarlet,red,,adjective,The external world > matter > colour > named colors
 nasturtium-red,1896,bright red or scarlet,red,,adjective,The external world > matter > colour > named colors
 sealing-wax red,1907,bright red or scarlet,red,,adjective,The external world > matter > colour > named colors
-blood-red,0000,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
-bloody,0000,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
+blood-red,0,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
+bloody,0,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
 purpurine,1300,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
 sanguine,1382,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
 tuly,1398,deep red or crimson,crimson,,adjective,The external world > matter > colour > named colors
@@ -332,8 +332,8 @@ flammeous,1656,orange-red,orangered,,adjective,The external world > matter > col
 pimento,1921,orange-red,orangered,,adjective,The external world > matter > colour > named colors
 pimiento,1963,orange-red,orangered,,adjective,The external world > matter > colour > named colors
 flame,1970,orange-red,orangered,,adjective,The external world > matter > colour > named colors
-rosen,0000,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
-rose-red,0000,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
+rosen,0,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
+rose-red,0,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
 rosy,1381,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
 roseate,1449,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
 roset,1500,rose-red or pink,pink,http://www.shzongyue.com/data/out/102/39584753-rose-red.jpg,adjective,The external world > matter > colour > named colors
@@ -435,7 +435,7 @@ rubricked,1728,made red,red,,adjective,The external world > matter > colour > na
 Brazil,1600,red colouring matter,red,,adjective,The external world > matter > colour > named colors
 pelagian,1601,red colouring matter,red,,adjective,The external world > matter > colour > named colors
 rubric,1835,red colouring matter,red,,adjective,The external world > matter > colour > named colors
-green,0000,green,green,,adjective,The external world > matter > colour > named colors
+green,0,green,green,,adjective,The external world > matter > colour > named colors
 verdant,1581,green,green,,adjective,The external world > matter > colour > named colors
 verdurant,1583,green,green,,adjective,The external world > matter > colour > named colors
 sinople,1590,green,green,,adjective,The external world > matter > colour > named colors
@@ -470,7 +470,7 @@ pine green,1892,dark green,darkgreen,,adjective,The external world > matter > co
 army green,1897,dark green,darkgreen,,adjective,The external world > matter > colour > named colors
 malachite,1900,dark green,darkgreen,,adjective,The external world > matter > colour > named colors
 seaweed-green,1937,dark green,darkgreen,,adjective,The external world > matter > colour > named colors
-light green,,light green,lightgreen,,adjective,The external world > matter > colour > named colors
+light green,0,light green,lightgreen,,adjective,The external world > matter > colour > named colors
 beryl,1508,light green,lightgreen,,adjective,The external world > matter > colour > named colors
 water,1592,light green,lightgreen,,adjective,The external world > matter > colour > named colors
 berylline,1847,light green,lightgreen,,adjective,The external world > matter > colour > named colors
@@ -534,7 +534,7 @@ chlorophyllous,1863,green colouring matter,green,,adjective,The external world >
 chlorophyllian,1880,green colouring matter,green,,adjective,The external world > matter > colour > named colors
 chlorophyllaceous,1882,green colouring matter,green,,adjective,The external world > matter > colour > named colors
 aeruginous,1425,green colouring matter,green,,adjective,The external world > matter > colour > named colors
-verdigris,,green colouring matter,green,,adjective,The external world > matter > colour > named colors
+verdigris,0,green colouring matter,green,,adjective,The external world > matter > colour > named colors
 viridian,1902,green colouring matter,green,,adjective,The external world > matter > colour > named colors
 yellow,700,yellow,yellow,,adjective,The external world > matter > colour > named colors
 blayk,1400,yellow,yellow,,adjective,The external world > matter > colour > named colors
@@ -569,7 +569,7 @@ sunshine-yellow,1971,bright yellow,yellow,,adjective,The external world > matter
 topazine,1826,dark lustrous yellow,gold,,adjective,The external world > matter > colour > named colors
 topaz-tinted,1845,dark lustrous yellow,gold,,adjective,The external world > matter > colour > named colors
 topas-coloured,1902,dark lustrous yellow,gold,,adjective,The external world > matter > colour > named colors
-pale yellow,,pale yellow,lightyellow,,adjective,The external world > matter > colour > named colors
+pale yellow,0,pale yellow,lightyellow,,adjective,The external world > matter > colour > named colors
 gull,1300,pale yellow,lightyellow,,adjective,The external world > matter > colour > named colors
 flaxen,1523,pale yellow,lightyellow,,adjective,The external world > matter > colour > named colors
 palew,1547,pale yellow,lightyellow,,adjective,The external world > matter > colour > named colors
@@ -651,7 +651,7 @@ croceal,1647,reddish yellow,peachpuff,,adjective,The external world > matter > c
 croceous,1657,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
 croceate,1867,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
 saffronic,1949,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
-fallow,0000,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
+fallow,0,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
 favel,1490,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
 fulvid,1598,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
 fulve,1657,reddish yellow,peachpuff,,adjective,The external world > matter > colour > named colors
@@ -687,9 +687,9 @@ buff-washed,1883,brownish yellow,darkkhaki,,adjective,The external world > matte
 mustard,1919,brownish yellow,darkkhaki,,adjective,The external world > matter > colour > named colors
 Sahara,1923,brownish yellow,darkkhaki,,adjective,The external world > matter > colour > named colors
 wheaten,1975,brownish yellow,darkkhaki,,adjective,The external world > matter > colour > named colors
-pinkish yellow,,pinkish yellow,papayawhip,,adjective,The external world > matter > colour > named colors
+pinkish yellow,0,pinkish yellow,papayawhip,,adjective,The external world > matter > colour > named colors
 champagne,1903,pinkish yellow,papayawhip,,adjective,The external world > matter > colour > named colors
-greyish-yellow,,greyish yellow,darkkhaki,,adjective,The external world > matter > colour > named colors
+greyish-yellow,0,greyish yellow,darkkhaki,,adjective,The external world > matter > colour > named colors
 vitelline,1412,orange yellow,lightsalmon,,adjective,The external world > matter > colour > named colors
 luteous,1657,orange yellow,lightsalmon,,adjective,The external world > matter > colour > named colors
 orange-yellow,1662,orange yellow,lightsalmon,,adjective,The external world > matter > colour > named colors
@@ -726,7 +726,7 @@ sapphire-blue,1782,bright blue,aqua,,adjective,The external world > matter > col
 electric blue,1877,bright blue,aqua,,adjective,The external world > matter > colour > named colors
 pirate blue,1896,bright blue,aqua,,adjective,The external world > matter > colour > named colors
 blue-brilliant,1923,bright blue,aqua,,adjective,The external world > matter > colour > named colors
-deep blue,,deep blue,darkblue,,adjective,The external world > matter > colour > named colors
+deep blue,0,deep blue,darkblue,,adjective,The external world > matter > colour > named colors
 flaxen,1605,deep blue,,,adjective,The external world > matter > colour > named colors
 mazarine,1684,deep blue,,,adjective,The external world > matter > colour > named colors
 cyaneous,1688,deep blue,,,adjective,The external world > matter > colour > named colors
@@ -926,7 +926,6 @@ mud-coloured,1772,greyish brown,dimgrey,,adjective,The external world > matter >
 smoke-brown,1807,greyish brown,dimgrey,,adjective,The external world > matter > colour > named colors
 mud colour,1818,greyish brown,dimgrey,,adjective,The external world > matter > colour > named colors
 lead-brown,1897,greyish brown,dimgrey,,adjective,The external world > matter > colour > named colors
-nutmeg,1965,greyish brown,dimgrey,,adjective,The external world > matter > colour > named colors
 bluish-brown,1792,bluish-brown,rosybrown,,adjective,The external world > matter > colour > named colors
 damson brown,1661,purplish brown,rosybrown,,adjective,The external world > matter > colour > named colors
 lavender-brown,1813,purplish brown,rosybrown,,adjective,The external world > matter > colour > named colors
@@ -966,7 +965,7 @@ bistred,1876,becoming brown,brown,,adjective,The external world > matter > colou
 russeting,1874,becoming brown,brown,,adjective,The external world > matter > colour > named colors
 bronzing,1880,becoming brown,brown,,adjective,The external world > matter > colour > named colors
 bronzed,1748,becoming brown,brown,,adjective,The external world > matter > colour > named colors
-grey,0000,grey,grey,,adjective,The external world > matter > colour > named colors
+grey,0,grey,grey,,adjective,The external world > matter > colour > named colors
 gris,1386,grey,grey,,adjective,The external world > matter > colour > named colors
 grizzle,1425,grey,grey,,adjective,The external world > matter > colour > named colors
 grison,1438,grey,grey,,adjective,The external world > matter > colour > named colors
@@ -983,7 +982,7 @@ sabelline,1888,dark grey,darkgrey,,adjective,The external world > matter > colou
 shadow-grey,1918,dark grey,darkgrey,,adjective,The external world > matter > colour > named colors
 walnyed,1440,light grey,lightgrey,,adjective,The external world > matter > colour > named colors
 canvas,1486,light grey,lightgrey,,adjective,The external world > matter > colour > named colors
-hoar,0000,hoary,gainsboro,,adjective,The external world > matter > colour > named colors
+hoar,0,hoary,gainsboro,,adjective,The external world > matter > colour > named colors
 for-hoar,1366,hoary,gainsboro,,adjective,The external world > matter > colour > named colors
 hoarsih,1398,hoary,gainsboro,,adjective,The external world > matter > colour > named colors
 hoary,1573,hoary,gainsboro,,adjective,The external world > matter > colour > named colors
@@ -998,7 +997,7 @@ cinereal,1878,ashy grey,dimgrey,https://goo.gl/uFdH1t,adjective,The external wor
 smoky,1555,smoky grey,whitesmoke,https://goo.gl/vEd8n0,adjective,The external world > matter > colour > named colors
 smoked,1827,smoky grey,whitesmoke,https://goo.gl/vEd8n0,adjective,The external world > matter > colour > named colors
 smoke,1872,smoky grey,whitesmoke,https://goo.gl/vEd8n0,adjective,The external world > matter > colour > named colors
-iron-grey,0000,iron or steel grey,lightslategrey,http://www.hannibalservices.com/productos/minerales.jpg,adjective,The external world > matter > colour > named colors
+iron-grey,0,iron or steel grey,lightslategrey,http://www.hannibalservices.com/productos/minerales.jpg,adjective,The external world > matter > colour > named colors
 iron,1398,iron or steel grey,lightslategrey,http://www.hannibalservices.com/productos/minerales.jpg,adjective,The external world > matter > colour > named colors
 steel-grey,1560,iron or steel grey,lightslategrey,http://www.hannibalservices.com/productos/minerales.jpg,adjective,The external world > matter > colour > named colors
 steely,1596,iron or steel grey,lightslategrey,http://www.hannibalservices.com/productos/minerales.jpg,adjective,The external world > matter > colour > named colors
