@@ -15,7 +15,7 @@ Author of "The Mystery of the Yellow Room" and
 
 Contents
 
-Chapter	 
+Chapter
  	PROLOGUE
 I  	IS IT A GHOST?
 II  	THE NEW MARGARITA
@@ -2734,7 +2734,7 @@ He turned around, with a stifled exclamation. The hand that was laid on his shou
 
 
 
-Chapter XVI Mme. Giry's Astounding Revelations 
+Chapter XVI Mme. Giry's Astounding Revelations
 as to Her Personal Relations with the Opera Ghost
 
 Before following the commissary into the manager's office I must describe certain extraordinary occurrences that took place in that office which Remy and Mercier had vainly tried to enter and into which MM. Richard and Moncharmin had locked themselves with an object which the reader does not yet know, but which it is my duty, as an historian, to reveal without further postponement.
@@ -3858,7 +3858,7 @@ What the Persian knew of this torture-chamber and what there befell him and his 
 
 
 
-Chapter XXI Interesting and Instructive Vicissitudes 
+Chapter XXI Interesting and Instructive Vicissitudes
 of a Persian in the Cellars of the Opera
 
 THE PERSIAN'S NARRATIVE
@@ -4886,4 +4886,3 @@ A few figures taken from the article will suggest the enormous capacity and the 
 The author remarks of his visit to the Opera House that it "was almost as bewildering as it was agreeable. Giant stairways and colossal halls, huge frescoes and enormous mirrors, gold and marble, satin and velvet, met the eye at every turn."
 
 In a recent letter Mr. Andre Castaigne, whose remarkable pictures illustrate the text, speaks of a river or lake under the Opera House and mentions the fact that there are now also three metropolitan railway tunnels, one on top of the other.
-
